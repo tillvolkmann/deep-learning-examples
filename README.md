@@ -1,3 +1,7 @@
+## Tutorial: CNN on MNIST
+Links: \[ [Jupyter Notebook](https://github.com/tillvolkmann/deep-learning-examples/blob/master/tutorial_deep_learning_basics/tutorial_deep_learning_cnn_mnist.ipynb) \]
+\[ [Google Colab](https://github.com/tillvolkmann/deep-learning-examples/blob/master/tutorial_deep_learning_basics/tutorial_deep_learning_cnn_mnist.ipynb) \]
+
 ## Tutorial: Deep Learning Basics
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb"><img src="https://i.imgur.com/j4FqBuR.gif"></a>
